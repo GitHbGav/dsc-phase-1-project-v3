@@ -44,26 +44,26 @@ The dataset's columns encompass a mix of strings and floats, capturing diverse a
 # Data Science Approach
 Data Cleaning:
  We initiated our journey by meticulously cleaning the dataset. Addressing missing values, rectifying inconsistencies, and handling errors were our primary objectives. This step sets the foundation for reliable analysis.
-
+ Upon refining the data, we identified 20,626 values that will significantly contribute to our decision-making process.
+ 
 Exploratory Data Analysis (EDA): Our next endeavor involved an extensive EDA to uncover hidden patterns, trends, and correlations within the dataset. Key variables that influence accident rates and severity were identified.
 
 # Risk Assessment: 
 Leveraging the data provided, we quantified the safety risks associated with different aircraft models. This assessment formed the cornerstone of our recommendations.
 
-# Repository Navigation
-To navigate our repository, here's a guide to the main folders:
 
 # notebooks: 
-
+[Notebook](student.ipynb)
 Jupyter notebooks detailing data cleaning and risk assessment.
 
 ## Visualization: 
 We transformed our insights into compelling visualizations that effectively communicate accident trends, safety ratings, and risk assessments.
 
-![image info](./data/EngineType.png)
 ![image info](./data/NoofEngines.png)
-![image info](./data/Weather.png)
 ![image info](./data/total.png)
+![image info](./data/EngineType.png)
+![image info](./data/Weather.png)
+
 
 
 # Decision Support
