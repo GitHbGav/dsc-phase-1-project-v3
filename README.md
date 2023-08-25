@@ -44,7 +44,7 @@ The dataset's columns encompass a mix of strings and floats, capturing diverse a
 # Data Science Approach
 Data Cleaning:
  We initiated our journey by meticulously cleaning the dataset. Addressing missing values, rectifying inconsistencies, and handling errors were our primary objectives. This step sets the foundation for reliable analysis.
- Upon refining the data, we identified 20,626 values that will significantly contribute to our decision-making process.
+ Upon refining the data, we identified 28,626 values that will significantly contribute to our decision-making process.
  
 Exploratory Data Analysis (EDA): Our next endeavor involved an extensive EDA to uncover hidden patterns, trends, and correlations within the dataset. Key variables that influence accident rates and severity were identified.
 
@@ -68,3 +68,7 @@ We transformed our insights into compelling visualizations that effectively comm
 
 # Decision Support
 Our findings provide actionable insights to guide the decision-making process for the new aviation division. By identifying low-risk aircraft models, working to ensure safety and success in this new business endeavor.
+# Conclusion
+As per the analysis it is recommended to purchase flights with 2 engines, VMC weather controls, and avoid reciprocating engines.
+
+Considering the finance and other factors it is recommended to purchase Boeing 737 as a commercial flight and Gulfstream G IV as a private flight to the fleet.
