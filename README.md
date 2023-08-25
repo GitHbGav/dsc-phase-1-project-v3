@@ -63,8 +63,8 @@ We transformed our insights into compelling visualizations that effectively comm
 ![image info](./data/total.png)
 ![image info](./data/EngineType.png)
 ![image info](./data/Weather.png)
-
-
+![image info](./data/PrivatePlane.png)
+![image info](./data/CommercialPlane.png)
 
 # Decision Support
 Our findings provide actionable insights to guide the decision-making process for the new aviation division. By identifying low-risk aircraft models, working to ensure safety and success in this new business endeavor.
