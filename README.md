@@ -66,6 +66,7 @@ We transformed our insights into compelling visualizations that effectively comm
 ![image info](./data/PrivatePlane.png)
 ![image info](./data/CommercialPlane.png)
 
+[Tableau](https://public.tableau.com/app/profile/yasitha.de.alwis/viz/AirplaneSafety_16929863959810/Dashboard1?publish=yes)
 # Decision Support
 Our findings provide actionable insights to guide the decision-making process for the new aviation division. By identifying low-risk aircraft models, working to ensure safety and success in this new business endeavor.
 # Conclusion
