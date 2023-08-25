@@ -60,7 +60,7 @@ Jupyter notebooks detailing data cleaning and risk assessment.
 We transformed our insights into compelling visualizations that effectively communicate accident trends, safety ratings, and risk assessments.
 
 ![image info](./data/NoofEngines.png)
-![image info](./data/total.png)
+![image info](./data/Total.png)
 ![image info](./data/EngineType.png)
 ![image info](./data/Weather.png)
 ![image info](./data/PrivatePlane.png)
